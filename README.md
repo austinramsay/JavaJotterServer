@@ -1,7 +1,7 @@
 # JavaJotter Server
 Server-side application for JavaJotter notes (https://github.com/austinramsay/JavaJotter)
 
-Developed on a Sun Microsystems Ultra 45 Workstation, running: Solaris 10 5/09, NetBeans 6.8, JDK version 1.6.0 update 45.
+Developed on a Sun Microsystems Ultra 45 Workstation running: Solaris 10 5/09, NetBeans 6.8, JDK version 1.6.0 update 45.
 
 ## Database
 Uses an embedded Apache Derby database. The path to the database is a required argument to the JAR file to run.
